@@ -1,3 +1,7 @@
 [Steve]: Did you receive my message?
 [Steve]: If you rceived my message reply YES
+<<<<<<< HEAD
 [Steve]: okay the messages are properly sent through
+=======
+[Steve]: okay good you received!
+>>>>>>> dc7ac14 (updated new line)
